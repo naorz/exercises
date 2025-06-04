@@ -65,7 +65,7 @@ Write a program that forces the user to enter a positive integer. If they enter 
 
   1. Declare an integer variable `num`.
   2. <details>
-     <summary>Hint 1: hot to use do-while loop</summary>
+     <summary>Hint 1: how to use do-while loop</summary>
 
       Use a `do { … } while (condition);` structure:
       ```c
